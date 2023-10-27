@@ -1,0 +1,2 @@
+I will include the guide I used for setting up nvim
+https://www.youtube.com/watch?v=w7i4amO_zaE

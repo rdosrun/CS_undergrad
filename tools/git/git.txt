@@ -1,0 +1,7 @@
+git is the way software developers will manage a project when working on a team
+
+sources: https://git-scm.com/
+
+helpful resouce: https://www.w3schools.com/git/default.asp
+
+

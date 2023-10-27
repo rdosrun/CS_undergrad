@@ -1,0 +1,8 @@
+There are serveral different resources for using vim keyboard shortcuts(vim motions)
+
+resources:
+    https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/
+    https://vim.rtorr.com/
+
+
+

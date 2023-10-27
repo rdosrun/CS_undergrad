@@ -1,0 +1,14 @@
+
+1. functions (day three)
+    a. forward declaration
+    b. return types
+    c. pass by value
+
+2. Arrays day 1
+    a. basic Arrays
+    b. dynamic Arrays
+
+3. Pointers day 2
+    a. pointer notation
+    b. pass by ref
+

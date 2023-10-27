@@ -1,0 +1,16 @@
+1. introduction (day one)
+    a. hello world
+    b. variables
+    c. arithmetic operators
+
+2. logic statements (day two)
+    a. if statements
+    b. switch statements
+    c. boolean experssions
+
+3. loops
+    a. while loops
+    b. for loops
+
+
+

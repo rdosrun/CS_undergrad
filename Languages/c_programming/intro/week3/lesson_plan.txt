@@ -1,0 +1,11 @@
+1. day 1
+    a. how to create a struct
+    b. using structs with arrays
+
+2. day 2
+    a. how to create a header file
+    b. scope rules
+
+3. day 3
+    a. recursion
+    b.

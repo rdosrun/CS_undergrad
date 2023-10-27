@@ -1,0 +1,26 @@
+For this guide I will list out a couple of options for the deployment of a self hosted VPN service
+
+****Disclamer****
+    For those looking for an anomous way to browse the web this is will not help with that.
+    if you are looking to be anonymous online I would suggest the following (make sure to read all suggestions)
+        1. Use tor browser/ the onion network for that
+        2. Do not sign in to any website that has your personal information tied to an account, youtube/email/bank ... ect
+        3. Only access your anonymous acccounts through the tor network
+        4. Do not make any purchases unless you are using monero(XMR)
+        5. Only use linux based Operating systems.
+    If the above doesn't sound reasonable I would suggest using firefox as a browser, duckduckgo as a search engine, and install a decent ad blocker
+    that will do 75% of what the above will do and more likely than not provide what you are looking for.
+
+****Warning****
+    doing this will open up your network to external traffic make sure to keep your VPN up to date and follow best operational security practices
+
+
+if you are looking for a basic vpn I would suggest using an older computer install a couple of network cards and use pfsense
+    url: https://www.pfsense.org/
+    guide: https://www.youtube.com/watch?v=lUzSsX4T4WQ
+
+if you want a more hands on approach consider using this guide
+    https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-debian-11
+
+
+

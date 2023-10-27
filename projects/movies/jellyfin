@@ -1,0 +1,8 @@
+jellyfin is a peice of software that can be hosted over your own local network to stream media
+
+repository: https://github.com/jellyfin/jellyfin
+
+I think that this tutorial is done well but there are several others on youtube
+tutorial: https://www.youtube.com/watch?v=WCDmHljsinY
+
+also look at the ARM(automatic ripping machine) help loading movies on to the server

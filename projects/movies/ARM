@@ -1,0 +1,9 @@
+Automatic Ripping Machine (ARM) is a peice of software that is used to rip media off of blu-ray/dvd/cd.
+
+repository:  https://github.com/automatic-ripping-machine/automatic-ripping-machine
+
+I have found that for the best experience you should use their docker container
+https://hub.docker.com/r/automaticrippingmachine/automatic-ripping-machine
+
+***note***
+graphics card encoding can be a little tricky to set up

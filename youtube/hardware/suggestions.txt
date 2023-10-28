@@ -1,0 +1,25 @@
+index:
+    - hardware reviewers
+    - hardware projects
+    - used hardware projects
+
+
+
+hardware reviewers:
+    gamers nexus: https://www.youtube.com/@GamersNexus
+    level one techs: https://www.youtube.com/@Level1Techs
+    craft computing: https://www.youtube.com/@CraftComputing
+
+
+hardware projects:
+    Jeff Geerling: https://www.youtube.com/@JeffGeerling
+    Dawid Does Tech Stuff: https://www.youtube.com/@DawidDoesTechStuff
+    craft computing: https://www.youtube.com/@CraftComputing
+
+
+used hardware projects:
+    Hardware Haven: https://www.youtube.com/@HardwareHaven
+    craft computing: https://www.youtube.com/@CraftComputing
+
+
+

@@ -1,0 +1,9 @@
+For a complete online guide using bash refer to the GNU guide:
+    https://www.gnu.org/software/bash/manual/bash.html
+
+For a written guide use
+    linux for programmers and users: by Graham Glass | King Ables
+
+
+A short list of useful commands will accompany this file
+

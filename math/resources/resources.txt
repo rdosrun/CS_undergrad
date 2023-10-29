@@ -1,0 +1,28 @@
+this page will laoyout what books I would recomend for learning math topics any edition will work fine
+
+Algebra
+    use a high school textbook for algebra I and II
+
+Geometry
+    use a high school Geometry textbook make sure it includes proofs
+
+Triginometry/pre-calc
+    use any high school trig and pre-calc book make sure it includes limits
+
+Calculus
+    (calc I and II) Calculus of a single Variable: by Larson | Hostetler | Edwards
+    (calc III) Multivariable Calculus: by Larson | Hostetler | Edwards
+
+Lienar algebra
+    elementary Linear algebra: by Howard Anton | Chris Rorres
+
+Discrete math
+    Discrete mathematics: by Richard Johnsonbaugh
+
+Differential equations
+    elementary differential equations: by boyce diprima
+
+
+
+
+

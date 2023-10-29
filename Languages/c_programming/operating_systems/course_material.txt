@@ -1,0 +1,5 @@
+My personal suggestion is to use the book OSTEP(Operating systems in three easy peices)
+https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+I may write some notes later, the above link should provide a good place learn.
+

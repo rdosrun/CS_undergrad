@@ -1,0 +1,8 @@
+1. ls (shows what is in the dir) that follows it
+2. man (short for manual and will show a manual page for the command)
+3. pwd (shows current location)
+4. grep (will scan the output of the prior command and filter output for a match)
+
+
+
+

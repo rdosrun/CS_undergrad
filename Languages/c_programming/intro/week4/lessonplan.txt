@@ -1,0 +1,9 @@
+1.
+    a. standard input / output
+    b. printf formatting
+2.
+    a. argument lists
+    b. formatted input scanf
+3.
+    a. error handling
+

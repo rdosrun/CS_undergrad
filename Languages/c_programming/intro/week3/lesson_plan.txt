@@ -8,4 +8,4 @@
 
 3. day 3
     a. recursion
-    b.
+

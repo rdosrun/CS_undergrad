@@ -1,0 +1,2 @@
+online textbook
+http://infolab.stanford.edu/~ullman/dscb.html#projects

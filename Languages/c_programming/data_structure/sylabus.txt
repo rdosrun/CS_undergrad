@@ -1,1 +1,23 @@
-this is meant to layout what materials are going to be in the following weeks
+This is meant to layout what materials are going to be in the following weeks
+
+
+Topics being covered in a introduction data structures course are
+
+
+Pointers
+Arrays
+Linked list
+stack
+queue
+recursion
+Trees
+Hash Maps
+Bubble Sort
+Selection Sort
+Merge sort
+quick sort
+big O notation
+
+Reference:
+ http://www2.cs.uidaho.edu/~bruceb/cs121/index.html
+
